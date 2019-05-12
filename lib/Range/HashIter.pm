@@ -128,4 +128,6 @@ L<Range::Iterator>
 
 L<Range::ArrayIter>
 
+L<Range::HandleIter>
+
 =cut
